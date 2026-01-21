@@ -1,5 +1,5 @@
 # 🏬 Retail Store Inventory Analysis Project
-![Stunning Store Inventory Analysis](cliff-top-residence1-1100x733.jpg)
+![Stunning Store Inventory Analysis](https://ecommercenews.com.au/uploads/story/2025/06/24/retail-store-shelves-products-digital-graphs-icons-data-analysis.webp)
 ## 📌 Project Overview
 This project focuses on analyzing **retail store inventory data** to understand stock levels, product performance, demand patterns, and inventory turnover.  
 The dataset is prepared to support analysis and dashboard creation using **Excel, Tableau, or Power BI**.
