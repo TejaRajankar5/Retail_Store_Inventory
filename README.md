@@ -9,7 +9,7 @@ This project is suitable for:
 - Tableau / Power BI mini projects  
 - Academic and practical learning  
 ---
-
+https://github.com/TejaRajankar5/Retail_Store_Inventory/blob/main/Images/images.jfif
 ---
 
 ## 📂 Dataset Information
