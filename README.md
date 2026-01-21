@@ -63,7 +63,14 @@ This project is suitable for:
 <img width="1372" height="671" alt="Store Inventory Analysis Dashboard" src="https://github.com/user-attachments/assets/6653f202-6f19-45bf-82fb-c70b7743b797" />
 
 ---
-
+## 📈 Visuals 
+### Total Inventory Value
+ -This bar chart shows the total inventory value by product category.
+ -Electronics and Clothing contribute the highest inventory value, followed by Stationery, Home Decor, Toys, and Groceries. The Unknown category has the lowest          inventory value.
+ -The visualization helps identify which categories hold the most stock value and supports better inventory and investment decisions.
+ <img width="633" height="406" alt="Total Inventory Value" src="https://github.com/user-attachments/assets/807b2e65-593c-4eb8-a12e-93a5d72edf30" />
+ 
+---
 ## 🔍 Key Insights (Example)
 - Certain categories contribute most to inventory value  
 - A few products frequently fall below reorder levels  
