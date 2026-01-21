@@ -9,8 +9,6 @@ This project is suitable for:
 - Tableau / Power BI mini projects  
 - Academic and practical learning  
 ---
-Images/images.jfif
----
 
 ## 📂 Dataset Information
 - **Dataset Name:** Retail Store Inventory  
