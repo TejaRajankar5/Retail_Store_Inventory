@@ -8,6 +8,7 @@ This project is suitable for:
 - Data Analytics portfolios  
 - Tableau / Power BI mini projects  
 - Academic and practical learning  
+---
 
 ---
 
